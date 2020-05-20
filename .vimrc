@@ -9,3 +9,5 @@ set expandtab
 set so=6
 
 autocmd BufWritePre * %s/\s\+$//e
+
+colorscheme ron
