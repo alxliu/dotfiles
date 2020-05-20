@@ -11,3 +11,5 @@ set so=6
 autocmd BufWritePre * %s/\s\+$//e
 
 colorscheme ron
+
+set number
